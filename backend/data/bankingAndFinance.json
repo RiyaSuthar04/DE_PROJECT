@@ -1,0 +1,121 @@
+{
+    "Aatmanirbhar Gujarat Scheme for Assistance to MSMEs": {
+      "url": "https://www.myscheme.gov.in/schemes/agmsmeict",
+      "details": "A state initiative designed to support and strengthen the MSME sector in Gujarat, aiming to enhance growth, encourage investments, and contribute to the vision of self-reliant Gujarat and India.",
+      "benefits": [
+        "Support for growth and investments in MSMEs.",
+        "Contribution to employment, GDP, and exports."
+      ],
+      "eligibility": [
+        "MSMEs established and operating within Gujarat."
+      ],
+      "application_process": [
+        "Visit the official website or contact the concerned department for application details."
+      ]
+    },
+    "Assistance for Reimbursement of CGTMSE Fees": {
+      "url": "https://www.myscheme.gov.in/schemes/agmsmercgt",
+      "details": "Provides financial support to Micro and Small Enterprises (MSEs) by reimbursing the annual service fees charged by banks or financial institutions for collateral-free loans under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) scheme.",
+      "benefits": [
+        "100% reimbursement of annual service fees for CGTMSE-backed loans for a period of 5 years."
+      ],
+      "eligibility": [
+        "Micro and Small Enterprises (MSEs) engaged in manufacturing or allied activities in Gujarat."
+      ],
+      "application_process": [
+        "Apply through the respective financial institution or bank providing the CGTMSE-backed loan."
+      ]
+    },
+    "Assistance of Interest Subsidy for Large Industries and Thrust Sector": {
+      "url": "https://www.myscheme.gov.in/schemes/agslitsis",
+      "details": "Provides financial support to large industrial undertakings by reimbursing a portion of the interest paid on term loans, encouraging industrial growth, expansion, and diversification.",
+      "benefits": [
+        "Interest subsidy of 7% on term loans for eligible projects.",
+        "Subsidy provided for a maximum duration of 10 years."
+      ],
+      "eligibility": [
+        "Large industrial undertakings, including new projects, expansion projects, and diversification projects in Gujarat."
+      ],
+      "application_process": [
+        "Submit application to the Industries Commissionerate, Government of Gujarat, with required documents."
+      ]
+    },
+    "Scheme for Financial Assistance to Integrated Logistics Facilities": {
+      "url": "https://www.myscheme.gov.in/schemes/sfailfis",
+      "details": "Provides financial assistance to private developers for developing Logistics Facilities and Logistics Parks with all required infrastructure and logistic services under the Gujarat Integrated Logistics and Logistics Park Policy.",
+      "benefits": [
+        "Financial assistance for developing logistics infrastructure."
+      ],
+      "eligibility": [
+        "Private developers undertaking logistics facility projects in Gujarat."
+      ],
+      "application_process": [
+        "Apply through the official portal or contact the Industries and Mines Department, Government of Gujarat."
+      ]
+    },
+    "Pradhan Mantri Mudra Yojana (PMMY)": {
+      "url": "https://www.myscheme.gov.in/schemes/pmmy",
+      "details": "Provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises.",
+      "benefits": [
+        "Loans categorized as Shishu, Kishore, and Tarun based on the stage of growth and funding needs."
+      ],
+      "eligibility": [
+        "Non-corporate small business segments including proprietorships and partnerships in manufacturing, trading, and services sectors."
+      ],
+      "application_process": [
+        "Apply through participating banks, NBFCs, or Micro Finance Institutions."
+      ]
+    },
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)": {
+      "url": "https://www.myscheme.gov.in/schemes/pmjjby",
+      "details": "A life insurance scheme offering coverage for death due to any reason.",
+      "benefits": [
+        "Life cover of ₹2 lakh at an annual premium of ₹436."
+      ],
+      "eligibility": [
+        "Individuals aged 18 to 50 years having a bank account."
+      ],
+      "application_process": [
+        "Enroll through your bank by submitting the consent form and auto-debit mandate."
+      ]
+    },
+    "Pradhan Mantri Suraksha Bima Yojana (PMSBY)": {
+      "url": "https://www.myscheme.gov.in/schemes/pmsby",
+      "details": "An accident insurance scheme offering coverage for death or disability due to accidents.",
+      "benefits": [
+        "Accidental death and full disability cover of ₹2 lakh at an annual premium of ₹20."
+      ],
+      "eligibility": [
+        "Individuals aged 18 to 70 years having a bank account."
+      ],
+      "application_process": [
+        "Enroll through your bank by submitting the consent form and auto-debit mandate."
+      ]
+    },
+    "Atal Pension Yojana (APY)": {
+      "url": "https://www.myscheme.gov.in/schemes/apy",
+      "details": "A pension scheme targeted at unorganized sector workers.",
+      "benefits": [
+        "Guaranteed monthly pension ranging from ₹1,000 to ₹5,000 after the age of 60."
+      ],
+      "eligibility": [
+        "Individuals aged 18 to 40 years with a bank account."
+      ],
+      "application_process": [
+        "Enroll through your bank by submitting the APY registration form."
+      ]
+    },
+    "Stand-Up India Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/standupindia",
+      "details": "Facilitates bank loans between ₹10 lakh and ₹1 crore to SC/ST and women entrepreneurs.",
+      "benefits": [
+        "Loans for setting up greenfield enterprises in manufacturing, services, or trading sectors."
+      ],
+      "eligibility": [
+        "SC/ST and women entrepreneurs above 18 years of age."
+      ],
+      "application_process": [
+        "Apply through the Stand-Up India portal or approach a bank branch directly."
+      ]
+    }
+  }

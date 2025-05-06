@@ -1,0 +1,108 @@
+{
+    "Scheme for Assistance for Startups / Innovation": {
+      "url": "https://www.myscheme.gov.in/schemes/sasi",
+      "details": "Launched under the Gujarat Industrial Policy 2020, this scheme aims to support startups and innovations at various stages of the startup cycle. It provides financial assistance to encourage R&D and promote entrepreneurship.",
+      "benefits": [
+        "Seed support up to ₹30 lakh",
+        "Sustenance allowance of ₹20,000 per month for startups and ₹25,000 per month for women-led startups",
+        "Assistance for product development, marketing, and professional services"
+      ],
+      "eligibility": [
+        "Innovative startups recognized by the Startup Gujarat Cell",
+        "Startups operating in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official Startup Gujarat portal",
+        "Submit necessary documents and business plan",
+        "Await evaluation and approval by the designated committee"
+      ]
+    },
+    "Aatmanirbhar Gujarat Scheme for assistance to MSMEs": {
+      "url": "https://www.myscheme.gov.in/schemes/agmsmecisms",
+      "details": "This umbrella scheme launched by the Industries and Mines Department, Gujarat, aims to empower the state's dynamic MSME sector, which significantly contributes to employment, GDP, and exports. Effective from October 5, 2022, to October 4, 2027, this initiative supports growth, investments, and the vision of 'Aatmanirbhar Gujarat' and 'Aatmanirbhar Bharat'.",
+      "benefits": [
+        "Financial assistance for technology upgradation and infrastructure development",
+        "Interest subsidy on term loans",
+        "Support for quality certification and patent registration"
+      ],
+      "eligibility": [
+        "Micro, Small, and Medium Enterprises (MSMEs) operating in Gujarat",
+        "Enterprises meeting the criteria set by the Industries and Mines Department"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents and project details",
+        "Await verification and approval"
+      ]
+    },
+    "Mukhyamantri Mahila Utkarsh Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/mmuy",
+      "details": "A scheme by the Government of Gujarat to promote women's entrepreneurship by providing interest-free loans up to ₹1 lakh to women entrepreneurs who wish to start a new business or expand their existing one.",
+      "benefits": [
+        "Interest-free loans up to ₹1 lakh without any collateral security",
+        "Repayment period up to 5 years",
+        "Training and skill development programs for women entrepreneurs"
+      ],
+      "eligibility": [
+        "Women entrepreneurs residing in Gujarat",
+        "Applicants intending to start or expand a business"
+      ],
+      "application_process": [
+        "Apply through the official portal or designated centers",
+        "Submit necessary documents",
+        "Await verification and loan disbursement"
+      ]
+    },
+    "Scheme for Assistance to Micro, Small and Medium Enterprises (MSME)": {
+      "url": "https://www.myscheme.gov.in/schemes/samsmeapc",
+      "details": "An umbrella scheme launched by the Industries and Mines Department, Gujarat, to empower the state's MSME sector. Effective from August 7, 2020, to August 6, 2025, it supports entrepreneurs and strengthens MSMEs, making them globally competitive.",
+      "benefits": [
+        "Financial assistance for technology acquisition and quality certification",
+        "Support for patent registration and market development",
+        "Interest subsidy on term loans"
+      ],
+      "eligibility": [
+        "MSMEs operating in Gujarat",
+        "Enterprises meeting the criteria set by the Industries and Mines Department"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents and project details",
+        "Await verification and approval"
+      ]
+    },
+    "Scheme for Assistance for Startups / Innovation: Pre-Series A Funding": {
+      "url": "https://www.myscheme.gov.in/schemes/sfasipsf",
+      "details": "Under Gujarat Venture Finance Limited (GVFL), this scheme provides mid-level Pre-Series A funding to startups, particularly those that have received seed support under various government schemes. It aims to bridge the financial gap known as the 'valley of death' in a startup's lifecycle.",
+      "benefits": [
+        "Pre-Series A funding to eligible startups",
+        "Support for startups in the commercialization phase"
+      ],
+      "eligibility": [
+        "Startups that have received seed support under government schemes",
+        "Startups operating in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official GVFL portal",
+        "Submit necessary documents and business plan",
+        "Await evaluation and approval"
+      ]
+    },
+    "Scheme for Assistance for Startups / Innovation: Interest Subsidy": {
+      "url": "https://www.myscheme.gov.in/schemes/sfasiis",
+      "details": "This component provides financial support to startups with innovative ideas across various sectors. Approved startups are eligible for an additional interest subsidy of 1%, up to a maximum of 9%, on term loans for MSME assistance.",
+      "benefits": [
+        "Interest subsidy up to 9% on term loans",
+        "Financial support for startups with innovative ideas"
+      ],
+      "eligibility": [
+        "Startups approved under the Scheme for Assistance for Startups / Innovation",
+        "Startups operating in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents and loan details",
+        "Await verification and subsidy disbursement"
+      ]
+    }
+  }

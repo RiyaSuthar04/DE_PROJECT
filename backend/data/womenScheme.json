@@ -1,0 +1,128 @@
+{
+    "Vahli Dikri Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/vdy",
+      "details": "Launched by the Women and Child Development Department, Government of Gujarat, this scheme aims to empower girl children by providing financial assistance to their parents. It encourages families to educate and nurture their daughters by offering cash incentives, free education, and insurance coverage.",
+      "benefits": [
+        "Cash incentives at different stages of education",
+        "Free education",
+        "Insurance coverage"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Girl child",
+        "Family income criteria as specified"
+      ],
+      "application_process": [
+        "Apply through the official portal or designated centers",
+        "Submit necessary documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "Vandan Matru Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/vmyg",
+      "details": "A maternity benefit scheme launched by the Women and Child Development Department, Gujarat, to support pregnant and lactating women from economically weaker sections. The scheme emphasizes maternal nutrition, encourages institutional deliveries, and promotes breastfeeding practices.",
+      "benefits": [
+        "Financial assistance in stages during pregnancy, delivery, and breastfeeding period"
+      ],
+      "eligibility": [
+        "Pregnant and lactating women from economically weaker sections in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "PURNA Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/psg",
+      "details": "A comprehensive initiative designed for adolescent girls aged 15-18 in Gujarat, focusing on improving their nutritional status, health, and life skills while empowering them through education, vocational training, and exposure to public services.",
+      "benefits": [
+        "Nutritional support",
+        "Health and life skills training",
+        "Educational and vocational training"
+      ],
+      "eligibility": [
+        "Adolescent girls aged 15-18 residing in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and enrollment"
+      ]
+    },
+    "Mahila Swavlamban Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/mssg",
+      "details": "Aims to empower women by providing financial assistance for starting or expanding economic activities. This initiative targets women from rural and urban areas, especially those from families living below the poverty line.",
+      "benefits": [
+        "Subsidy and loan to support economic development"
+      ],
+      "eligibility": [
+        "Women from rural and urban areas in Gujarat",
+        "Families living below the poverty line"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "Ganga Swarupa Pension Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/gspsg",
+      "details": "Aims to empower widowed women by offering financial support, ensuring they achieve self-reliance and dignity. Eligible beneficiaries receive a monthly pension directly deposited into their Post Office accounts.",
+      "benefits": [
+        "Monthly financial assistance of ₹1,250/-"
+      ],
+      "eligibility": [
+        "Widowed women residing in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and pension disbursement"
+      ]
+    },
+    "Bal Sakha Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/bsy",
+      "details": "A community-based program that aims to provide support to children in need of care and protection. Implemented by the Department of Women and Child Development in collaboration with the NHM and the State Child Protection Society.",
+      "benefits": [
+        "Support for children in need of care and protection",
+        "Network of trained volunteers called 'Bal Sakhis'"
+      ],
+      "eligibility": [
+        "Children in need of care and protection in Gujarat"
+      ],
+      "application_process": [
+        "Identification by Bal Sakhis",
+        "Assessment and provision of support services"
+      ]
+    },
+    "Poshan Sudha": {
+      "url": "https://www.myscheme.gov.in/schemes/psgg",
+      "details": "A scheme launched by the Women and Child Development Department, Gujarat, aimed at providing nutritional support to pregnant and lactating women.",
+      "benefits": [
+        "Nutritional support to pregnant and lactating women"
+      ],
+      "eligibility": [
+        "Pregnant and lactating women residing in Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and provision of nutritional support"
+      ]
+    },
+    "Mukhyamantri Matrushakti Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/mmyg",
+      "details": "Launched in 2022 by the Women and Child Development Department, Gujarat, focuses on improving the health and nutrition of pregnant women and mothers with children under 2 years. The scheme offers a nutritional kit containing groundnut oil, tuver dal, and chana to support calorie and protein needs.",
+      "benefits": [
+        "Nutritional kit containing essential food items"
+      ],
+      "eligibility": [
+        "First-time pregnant women or mothers with children aged under two years residing in Gujarat"
+      ],
+      "application_process": [
+        "Register using Aadhaar number and other required details on the official portal",
+        "Collect the nutritional kit from the nearest Anganwadi center upon verification"
+      ]
+    }
+  }

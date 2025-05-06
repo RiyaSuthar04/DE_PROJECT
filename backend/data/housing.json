@@ -1,0 +1,109 @@
+{
+    "Sardar Patel Awas Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/spay",
+      "details": "A housing scheme launched by the Government of Gujarat to provide affordable housing to economically weaker sections and low-income groups. The scheme offers financial assistance for the construction of houses in both urban and rural areas.",
+      "benefits": [
+        "Financial assistance for house construction",
+        "Implementation in both urban and rural areas"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Belonging to economically weaker sections or low-income groups",
+        "Not owning a pucca house"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and approval"
+      ]
+    },
+    "Mukhya Mantri Awas Yojana (MMAY)": {
+      "url": "https://gujrera.gujarat.gov.in/resources/staticpage/Affordable_Housing_Policy.pdf",
+      "details": "A scheme announced to make urban areas slum-free by providing affordable housing to poor, lower, and middle-income groups. It focuses on providing low-cost homes to economically weaker sections (EWS) and lower-income groups (LIG).",
+      "benefits": [
+        "Provision of affordable housing units",
+        "Focus on slum rehabilitation"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Belonging to EWS, LIG, or MIG categories",
+        "Not owning a pucca house"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and allocation"
+      ]
+    },
+    "Gujarat Housing Board Schemes": {
+      "url": "https://gujarathousingboard.gujarat.gov.in/",
+      "details": "The Gujarat Housing Board offers various housing schemes for different income groups, including LIG and MIG. Recent schemes include the development of housing units in cities like Surat and Navsari.",
+      "benefits": [
+        "Affordable housing units for LIG and MIG",
+        "Development in multiple urban locations"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Above 18 years of age",
+        "Not owning any other property in the country",
+        "Not having applied for any other housing scheme from the state government"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and allocation"
+      ]
+    },
+    "Affordable Housing Schemes by AUDA": {
+      "url": "https://www.auda.org.in/AHSD/",
+      "details": "The Ahmedabad Urban Development Authority (AUDA) offers affordable housing schemes for EWS and LIG categories in various locations like Bopal and Nikol-Kathwada.",
+      "benefits": [
+        "Affordable housing units in designated areas",
+        "Focus on EWS and LIG categories"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Belonging to EWS or LIG categories",
+        "Meeting income criteria as specified"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and allocation"
+      ]
+    },
+    "Housing Subsidy Scheme for Construction Workers": {
+      "url": "https://www.egovtschemes.com/gujarat-housing-subsidy-scheme/",
+      "details": "Launched by the Gujarat Building and Other Construction Workers Welfare Board (GBOCWWB), this scheme provides financial assistance to registered construction workers to help them purchase or construct their own homes.",
+      "benefits": [
+        "Financial assistance for home purchase or construction",
+        "Focus on improving social and economic stability of construction workers"
+      ],
+      "eligibility": [
+        "Registered construction workers in Gujarat",
+        "Meeting criteria as specified by GBOCWWB"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)": {
+      "url": "https://www.myscheme.gov.in/schemes/pmay-g",
+      "details": "A centrally sponsored scheme aiming to provide a pucca house with basic amenities to all houseless households and those living in kutcha and dilapidated houses in rural areas by 2024.",
+      "benefits": [
+        "Provision of pucca houses with basic amenities",
+        "Focus on rural households"
+      ],
+      "eligibility": [
+        "Houseless households or those living in kutcha/dilapidated houses in rural areas",
+        "Meeting criteria as specified by the scheme"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and allocation"
+      ]
+    }
+  }

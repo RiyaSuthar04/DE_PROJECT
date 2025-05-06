@@ -1,0 +1,128 @@
+{
+    "Mamta Taruni Abhiyan": {
+      "url": "https://www.myscheme.gov.in/schemes/mta",
+      "details": "Launched by the Directorate of Women and Child Development, this scheme provides free medical check-ups, iron and folic acid supplements, deworming medication, and cash incentives to adolescent girls (10-19 years) and pregnant women, particularly from Below Poverty Line (BPL) families.",
+      "benefits": [
+        "Free medical check-ups",
+        "Iron and folic acid supplements",
+        "Deworming medication",
+        "Cash incentive of ₹6,000 for pregnant women"
+      ],
+      "eligibility": [
+        "Adolescent girls aged 10-19 years",
+        "Pregnant women",
+        "Residents of Gujarat",
+        "Priority given to BPL families"
+      ],
+      "application_process": [
+        "Register through local Anganwadi centers or ASHA workers",
+        "Submit necessary documents (ID proof, medical certificate, bank details, income certificate, address proof)",
+        "Participate in health check-up sessions"
+      ]
+    },
+    "Mukhyamantri Free Diagnostic Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/mfds",
+      "details": "Introduced with a corpus of ₹110 crore, this scheme aims to provide free-of-cost diagnostic services in all government health institutions and empanelled laboratories for Economically Weaker Section (EWS) households.",
+      "benefits": [
+        "Free diagnostic services",
+        "Available in government health institutions and empanelled laboratories"
+      ],
+      "eligibility": [
+        "Residents of Gujarat",
+        "EWS households as per government criteria"
+      ],
+      "application_process": [
+        "Visit the nearest government health institution or empanelled laboratory",
+        "Present valid ID proof and address proof",
+        "Undergo prescribed diagnostic tests"
+      ]
+    },
+    "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PMJAY)": {
+      "url": "https://pmjay.gov.in/",
+      "details": "A national health protection scheme providing a cover of ₹5 lakh per family per year for secondary and tertiary care hospitalization. The Gujarat government has doubled this cap to ₹10 lakh per family, ensuring free-of-cost medical treatment.",
+      "benefits": [
+        "Health cover up to ₹10 lakh per family",
+        "Free-of-cost medical treatment for secondary and tertiary care hospitalization"
+      ],
+      "eligibility": [
+        "Families identified under the Socio-Economic Caste Census (SECC) criteria",
+        "Residents of Gujarat"
+      ],
+      "application_process": [
+        "Check eligibility through the official PMJAY portal",
+        "Register at empanelled hospitals or Common Service Centers (CSCs)",
+        "Receive Ayushman Bharat card for availing benefits"
+      ]
+    },
+    "Health and Wellness Centres (HWCs)": {
+      "url": "https://arogyasathi.gujarat.gov.in/",
+      "details": "Under the National Health Mission, Gujarat is establishing Health and Wellness Centres to provide Comprehensive Primary Health Care (CPHC) services, including maternal and child health, non-communicable diseases, and mental health services.",
+      "benefits": [
+        "Comprehensive Primary Health Care services",
+        "Maternal and child health services",
+        "Non-communicable diseases management",
+        "Mental health services"
+      ],
+      "eligibility": [
+        "Residents of Gujarat",
+        "Services available at designated HWCs across the state"
+      ],
+      "application_process": [
+        "Visit the nearest Health and Wellness Centre",
+        "Register for services as per the guidelines",
+        "Receive necessary healthcare services"
+      ]
+    },
+    "Palliative Care Implementation Plan (PCIP)": {
+      "url": "https://gujhealth.gujarat.gov.in/images/pdf/Palliative-Care-Implementation-Plan.pdf",
+      "details": "This plan aims to provide palliative care services to individuals with chronic illnesses, ensuring quality of life through pain and symptom management, psychological support, and end-of-life care.",
+      "benefits": [
+        "Pain and symptom management",
+        "Psychological support",
+        "End-of-life care"
+      ],
+      "eligibility": [
+        "Individuals with chronic illnesses",
+        "Residents of Gujarat"
+      ],
+      "application_process": [
+        "Register through local health centers or hospitals",
+        "Undergo assessment by healthcare professionals",
+        "Receive palliative care services as per the plan"
+      ]
+    },
+    "School Health Programme": {
+      "url": "https://gujhealth.gujarat.gov.in/images/pdf/aar06-07.pdf",
+      "details": "Implemented since 1996-97, this programme conducts annual health check-ups for school children, aiming to identify health issues early and provide necessary interventions.",
+      "benefits": [
+        "Annual health check-ups for school children",
+        "Early identification of health issues",
+        "Referral to appropriate healthcare services if needed"
+      ],
+      "eligibility": [
+        "School children in Gujarat",
+        "Enrolled in government or government-aided schools"
+      ],
+      "application_process": [
+        "Participate in the annual health check-up sessions organized by schools",
+        "Receive necessary referrals or treatments as identified"
+      ]
+    },
+    "Ayushman Arogya Yojana": {
+      "url": "https://arogyasathi.gujarat.gov.in/",
+      "details": "A state-specific scheme providing financial assistance for medical treatments, aiming to reduce out-of-pocket expenditure and improve access to healthcare services.",
+      "benefits": [
+        "Financial assistance for medical treatments",
+        "Coverage for various medical procedures and services"
+      ],
+      "eligibility": [
+        "Residents of Gujarat",
+        "Families meeting the eligibility criteria set by the state government"
+      ],
+      "application_process": [
+        "Apply through the official Arogya Sathi portal",
+        "Submit necessary documents for verification",
+        "Receive assistance as per the approved guidelines"
+      ]
+    }
+  }

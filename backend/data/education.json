@@ -1,0 +1,173 @@
+{
+    "Mukhyamantri Yuva Swavalamban Yojana (MYSY)": {
+      "url": "https://www.myscheme.gov.in/schemes/mysy",
+      "details": "A scholarship scheme for economically weaker section students in Gujarat pursuing higher education like diploma courses, engineering, pharmacy, medical, etc.",
+      "benefits": [
+        "Tuition fee grant",
+        "Hostel grant",
+        "Book/instruments grant",
+        "Age relaxation for government jobs",
+        "Training for competitive exams",
+        "Financial assistance for students in GMERS and dental courses"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Family income criteria as specified",
+        "Admission in eligible courses"
+      ],
+      "application_process": [
+        "Apply online through the official portal",
+        "Submit required documents",
+        "Await verification and approval"
+      ]
+    },
+    "Vahli Dikri Yojana": {
+      "url": "https://www.myscheme.gov.in/schemes/vdy",
+      "details": "A scheme aimed at empowering girl children by providing financial assistance to their parents to encourage education and reduce school dropout rates.",
+      "benefits": [
+        "Cash incentives at different stages of education",
+        "Free education",
+        "Insurance coverage"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Girl child",
+        "Family income criteria as specified"
+      ],
+      "application_process": [
+        "Apply through the official portal or designated centers",
+        "Submit necessary documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "Educational Award Scheme - Gujarat Labour Welfare Board": {
+      "url": "https://www.myscheme.gov.in/schemes/eas-glwb",
+      "details": "Implemented to encourage children of laborers to pursue higher education by providing financial awards based on academic performance.",
+      "benefits": [
+        "₹2,500 for students scoring 70% and above in 10th Standard",
+        "₹5,000 for students scoring 70% and above in 12th Standard"
+      ],
+      "eligibility": [
+        "Children of laborers working in factories/institutes in Gujarat",
+        "Parents contributing to the Labour Welfare Fund",
+        "Students scoring 70% and above in 10th or 12th Standard"
+      ],
+      "application_process": [
+        "Register on the Sanman Portal: https://sanman.gujarat.gov.in/",
+        "Fill out the application form",
+        "Upload required documents",
+        "Submit the application and await confirmation"
+      ]
+    },
+    "Educational Study Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/essg",
+      "details": "Provides affordable education loans to students pursuing undergraduate and postgraduate professional courses.",
+      "benefits": [
+        "Loan up to ₹10,00,000 or total tuition fee, whichever is less",
+        "Simple interest rate of 4% per annum"
+      ],
+      "eligibility": [
+        "Resident of Gujarat",
+        "Passed Class 12 with at least 60% marks",
+        "Family income of ₹6.00 lakhs or less",
+        "Admission in accredited professional courses"
+      ],
+      "application_process": [
+        "Apply online through the official portal",
+        "Submit the application along with required documents to the concerned authority",
+        "Await approval and disbursement"
+      ]
+    },
+    "NAMO E-Tablet Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/nets",
+      "details": "Provides tablets to students studying in colleges and universities in Gujarat to promote digital learning.",
+      "benefits": [
+        "Free tablets preloaded with educational content",
+        "4G connectivity",
+        "7-inch screen size"
+      ],
+      "eligibility": [
+        "Students enrolled in first-year college or polytechnic courses in Gujarat",
+        "Payment of ₹1,000 as token amount"
+      ],
+      "application_process": [
+        "Enroll through respective colleges",
+        "Submit necessary documents",
+        "Pay the token amount",
+        "Receive the tablet upon verification"
+      ]
+    },
+    "Bhagwan Budhdh Scholarship": {
+      "url": "https://www.myscheme.gov.in/schemes/bbs",
+      "details": "Provides financial assistance to Scheduled Caste girl students in Gujarat for post-SSC studies.",
+      "benefits": [
+        "Academic allowance based on course group and hostel/day scholar status",
+        "Approved tuition and other fees",
+        "Disability allowance if applicable"
+      ],
+      "eligibility": [
+        "Scheduled Caste girl students",
+        "Minimum 50% percentile in relevant examinations",
+        "Family income criteria as specified"
+      ],
+      "application_process": [
+        "Register on https://www.digitalgujarat.gov.in/",
+        "Complete profile and apply for the scholarship",
+        "Upload required documents",
+        "Submit the application and await approval"
+      ]
+    },
+    "Foreign Education Scheme": {
+      "url": "https://www.myscheme.gov.in/schemes/fesg",
+      "details": "Provides financial assistance for non-reserved category students pursuing higher education abroad after Standard 12.",
+      "benefits": [
+        "Loan assistance for tuition fees and living expenses",
+        "Support for students admitted to recognized foreign universities"
+      ],
+      "eligibility": [
+        "Non-reserved category students from Gujarat",
+        "Admission in recognized foreign universities",
+        "Family income criteria as specified"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and approval"
+      ]
+    },
+    "Education Assistance/Ph.D Scheme (GBOCWWB)": {
+      "url": "https://www.myscheme.gov.in/schemes/eaphdsgbocwwb",
+      "details": "Provides financial assistance once a year to two children of a construction worker for pursuing higher education.",
+      "benefits": [
+        "Annual financial assistance for educational expenses",
+        "Support for students from Class I up to professional courses"
+      ],
+      "eligibility": [
+        "Children of construction workers registered with the Gujarat Building and Other Construction Workers Welfare Board",
+        "Enrollment in any grade from Class I up to higher education or professional courses"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit required documents",
+        "Await verification and disbursement"
+      ]
+    },
+    "Post-Matric Scholarships for Scheduled Castes Students": {
+      "url": "https://www.myscheme.gov.in/schemes/pmsscs-g",
+      "details": "Provides financial assistance to Scheduled Caste students for pursuing post-matriculation education.",
+      "benefits": [
+        "Scholarship covering tuition fees and other allowances",
+        "Support for various post-matric courses"
+      ],
+      "eligibility": [
+        "Scheduled Caste students from Gujarat",
+        "Enrollment in recognized post-matric courses",
+        "Family income criteria as specified"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and approval"
+      ]
+    }
+  }

@@ -1,0 +1,121 @@
+{
+    "AGR 2 (Farm Mechanization) Scheme for Farmers Other Than SC/ST": {
+      "url": "https://www.myscheme.gov.in/schemes/agr2fmsfotscst",
+      "details": "Launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, this scheme provides financial assistance to farmers for the purchase of agricultural equipment to increase crop production.",
+      "benefits": [
+        "Financial assistance for purchasing agricultural equipment",
+        "Enhancement of crop production through mechanization"
+      ],
+      "eligibility": [
+        "Farmers other than those belonging to SC/ST categories",
+        "Residents of Gujarat"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and approval"
+      ]
+    },
+    "Saat Pagla Khedut Kalyanna": {
+      "url": "https://www.nabard.org/auth/writereaddata/careernotices/2701230915policy-initiatives-state-government.pdf",
+      "details": "Launched in September 2020, this scheme by the Department of Agriculture and Farmers’ Welfare and Co-operation aims to benefit farmers through seven steps, including irrigation system improvements, thereby achieving the objective of 'Per Drop More Crop' and contributing towards doubling farmers’ income in Gujarat.",
+      "benefits": [
+        "Improved irrigation systems",
+        "Enhanced agricultural productivity",
+        "Support for doubling farmers' income"
+      ],
+      "eligibility": [
+        "Farmers residing in Gujarat",
+        "Engaged in agricultural activities"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents",
+        "Await verification and approval"
+      ]
+    },
+    "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)": {
+      "url": "https://ruraldev.gujarat.gov.in/",
+      "details": "A national scheme implemented in Gujarat to provide at least 100 days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+      "benefits": [
+        "Guaranteed wage employment",
+        "Creation of durable rural assets"
+      ],
+      "eligibility": [
+        "Adult members of rural households",
+        "Willingness to do unskilled manual work"
+      ],
+      "application_process": [
+        "Apply through the local Gram Panchayat",
+        "Submit necessary documents",
+        "Await job card issuance and work allocation"
+      ]
+    },
+    "Swachh Bharat Mission (Gramin)": {
+      "url": "https://ruraldev.gujarat.gov.in/",
+      "details": "A national initiative implemented in Gujarat to eliminate open defecation in rural areas by constructing individual household latrines, community sanitary complexes, and promoting hygiene practices.",
+      "benefits": [
+        "Financial assistance for toilet construction",
+        "Promotion of hygiene and sanitation"
+      ],
+      "eligibility": [
+        "Rural households without access to toilets",
+        "Residents of Gujarat"
+      ],
+      "application_process": [
+        "Apply through the local Gram Panchayat",
+        "Submit necessary documents",
+        "Await verification and assistance"
+      ]
+    },
+    "Scheme of Assistance for Common Environment Infrastructure": {
+      "url": "https://www.myscheme.gov.in/schemes/saceieif",
+      "details": "This scheme provides financial aid for projects that promote pollution control, waste management, and environmental sustainability. It supports industries and organizations in establishing and upgrading environmental management infrastructure.",
+      "benefits": [
+        "Financial assistance up to ₹50 lakh",
+        "Support for pollution control and waste management projects"
+      ],
+      "eligibility": [
+        "Industries and organizations in Gujarat",
+        "Projects aimed at environmental management"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary project proposals and documents",
+        "Await evaluation and approval"
+      ]
+    },
+    "Scheme for Development of Green Estate": {
+      "url": "https://www.egovtschemes.com/scheme-of-assistance-for-common-environment-infrastructure-scheme-for-development-of-green-estate/",
+      "details": "Under the Gujarat Industrial Policy, this scheme supports the relocation or retrofitting of polluting industrial units to designated green estates, thereby reducing environmental pollution and promoting sustainable industrial practices.",
+      "benefits": [
+        "Financial assistance for relocation or retrofitting",
+        "Promotion of sustainable industrial practices"
+      ],
+      "eligibility": [
+        "Polluting industrial units in Gujarat",
+        "Willingness to relocate or retrofit to green estates"
+      ],
+      "application_process": [
+        "Apply through the official portal",
+        "Submit necessary documents and plans",
+        "Await evaluation and approval"
+      ]
+    },
+    "Jyotigram Yojana": {
+      "url": "https://en.wikipedia.org/wiki/Jyotigram_Yojana",
+      "details": "An initiative by the Government of Gujarat to ensure 24-hour, three-phase quality power supply to rural areas and supply power to farmers residing in scattered farmhouses through feeder lines with specially designed transformers.",
+      "benefits": [
+        "Uninterrupted power supply to rural areas",
+        "Enhanced agricultural productivity"
+      ],
+      "eligibility": [
+        "Rural households and farmers in Gujarat",
+        "Areas covered under the scheme"
+      ],
+      "application_process": [
+        "Automatic inclusion based on area coverage",
+        "No individual application required"
+      ]
+    }
+  }
